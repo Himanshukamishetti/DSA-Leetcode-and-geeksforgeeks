@@ -7,8 +7,5 @@ class Solution {
         unique.insert(b.begin(),b.end());
         vector<int>ans(unique.begin(),unique.end());
         return ans;
-        
-        
-
     }
 };
